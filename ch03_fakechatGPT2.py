@@ -8,12 +8,7 @@ import openai
 import os
 # 시간 정보를 위핸 패키지 추가
 from datetime import datetime
-# 오디오 array 비교를 위한 numpy 패키지 추가
-import numpy as np
-# TTS 패키기 추가
-from gtts import gTTS
-# 음원파일 재생을 위한 패키지 추가
-import base64
+
 
 
 
